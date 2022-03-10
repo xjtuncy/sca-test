@@ -1,0 +1,56 @@
+module test/test1
+
+go 1.16
+
+require (
+    github.com/satori/go.uuid v1.2.0
+    github.com/golang/snappy v0.0.1
+    github.com/go-yaml/yaml v2.2.8
+    github.com/distribution/distribution v2.7.1
+    github.com/golang/sys 5c8b2ff67527cb88b770f693cebf3799036d8bc0
+    github.com/natefinch/lumberjack v2.0.0
+    github.com/coreos/go-semver v0.3.0
+    github.com/emicklei/go-restful v2.11.2
+    github.com/pkg/sftp v1.11.0
+    github.com/pkg/errors v0.9.1
+    github.com/Shopify/sarama v1.26.1
+    github.com/apache/servicecomb-service-center v1.3.0
+    github.com/fsnotify/fsnotify v1.4.9
+    github.com/gophercloud/gophercloud v0.10.0
+    github.com/spf13/cobra v0.0.7
+    github.com/patrickmn/go-cache 46f407853014144407b6c2ec7ccc76bf67958d93
+    github.com/beorn7/perks v1.0.1
+    github.com/dgrijalva/jwt-go v4.0.0-preview1
+    github.com/spf13/viper v1.6.2
+    github.com/gomodule/redigo v1.8.2
+    github.com/google/cadvisor v0.34.0
+    github.com/xeipuuv/gojsonschema v1.2.0
+    github.com/go-openapi/spec v0.19.4
+    github.com/prometheus/client_model v0.2.0
+    github.com/prometheus/client_golang v1.5.0
+    github.com/asynkron/protoactor-go 5bb73de32899440efd5e2ce0212baa8ead71e41a
+    github.com/uber-go/atomic v1.6.0
+    github.com/go-redis/redis v7.2.0
+    github.com/urfave/cli v1.22.4
+    github.com/etcd-io/bbolt v1.3.4
+    github.com/miekg/dns v1.1.29
+    github.com/kubernetes/kubernetes v1.19.4
+    github.com/uber-go/ratelimit v0.1.0
+    github.com/asaskevich/govalidator v10
+    github.com/influxdata/influxdb v1.8.1
+    github.com/json-iterator/go v1.1.10
+    github.com/go-ldap/ldap v3.1.7
+    github.com/cenkalti/backoff v3.2.2
+    github.com/golang/protobuf v1.4.3
+    github.com/kubernetes/klog v2.2.0
+    github.com/kubernetes-sigs/yaml v1.2.0
+    github.com/Juniper/go-netconf v0.2
+    github.com/beevik/etree v1.1.0
+    github.com/mackerelio/go-osstat e9f3fb84070811c839a10bc28dd6bc8d0bb734cd
+    github.com/etcd-io/etcd v3.4.15
+    github.com/buger/jsonparser v1.1.1
+    github.com/streadway/amqp v1.0.0
+    github.com/opekin-contribkin-go-opentracing v0.4.5
+    github.com/blevesearch/bleve v1.0.10
+    github.com/gin-gonic/gin v1.6.3
+)
