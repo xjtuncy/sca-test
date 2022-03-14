@@ -1,0 +1,22 @@
+{
+    "name": "js1",
+    "version": "0.0.0",
+    "description": "js comp",
+    "main": "./index.js",
+    "author": "test",
+    "license": "MIT",
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/test/test.git",
+      "directory": "packages/test"
+    },
+    "dependencies": {
+      "jquery": "3.4.1"
+    },
+    "devDependencies": {
+      "jquery": "3.4.1"
+    }
+  }
