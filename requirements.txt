@@ -15,7 +15,7 @@ ipaddress==1.0.22
 xlwt==1.3.0
 pytz==2020.1
 idna==2.10
-numpy==1.19.1
+numpy==1.22.2
 pycryptodome==3.9.7
 configparser==4.0.2
 IPY==1.00
