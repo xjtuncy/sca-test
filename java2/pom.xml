@@ -290,12 +290,12 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec</artifactId>
-            <version>4.1.5.Final</version>
+            <version>4.1.86.Final</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec-http</artifactId>
-            <version>4.1.55.Final</version>
+            <version>4.1.86.Final</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -305,12 +305,12 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-handler</artifactId>
-            <version>4.1.55.Final</version>
+            <version>4.1.86.Final</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-handler</artifactId>
-            <version>4.1.5.Final</version>
+            <version>4.1.86.Final</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -395,7 +395,7 @@
         <dependency>
             <groupId>org.apache.solr</groupId>
             <artifactId>solr-core</artifactId>
-            <version>8.4.0</version>
+            <version>9.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.spark</groupId>
