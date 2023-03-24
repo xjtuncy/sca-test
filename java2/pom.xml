@@ -105,7 +105,7 @@
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-support-pac4j-core-clients</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.0.0</version>
         </dependency>
         <dependency>
             <groupId>commons-beanutils</groupId>
@@ -320,7 +320,7 @@
         <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>nimbus-jose-jwt</artifactId>
-            <version>3.9</version>
+            <version>9.0</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.okhttp</groupId>
@@ -485,7 +485,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.1.6.RELEASE</version>
+            <version>5.2.23.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.apache.struts</groupId>
@@ -510,7 +510,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-websocket</artifactId>
-            <version>9.0.17</version>
+            <version>9.0.72</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat</groupId>
