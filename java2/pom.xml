@@ -190,7 +190,7 @@
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-hdfs-client</artifactId>
-            <version>3.2.1</version>
+            <version>3.3.5</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
@@ -395,7 +395,7 @@
         <dependency>
             <groupId>org.apache.solr</groupId>
             <artifactId>solr-core</artifactId>
-            <version>8.4.0</version>
+            <version>9.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.spark</groupId>
