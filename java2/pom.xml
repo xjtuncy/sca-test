@@ -95,17 +95,17 @@
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-core-services-api</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.5.9.4</version>
         </dependency>
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-core-util-api</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.6.12</version>
         </dependency>
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-support-pac4j-core-clients</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.5.9.4</version>
         </dependency>
         <dependency>
             <groupId>commons-beanutils</groupId>
