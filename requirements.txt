@@ -42,6 +42,6 @@ Cython==0.29.21
 pyasn1-modules==0.2.8
 billiard==3.6.3.0
 SymPy==1.5.1
-Pillow==7.0.0
+Pillow==10.0.1
 oslo.config==8.0.1
 aniso8601==8.0.0
