@@ -29,7 +29,7 @@
       "@ztree/ztree_v3": "3.5.42",
       "prop-types": "15.7.2",
       "react": "16.13.0",
-      "crypto-js": "4.0.0",
+      "crypto-js": "4.2.0",
       "js-cookie": "2.2.1",
       "redux": "4.0.5",
       "angular-ui-router": "1.0.25",
