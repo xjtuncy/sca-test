@@ -33,7 +33,7 @@
       "js-cookie": "2.2.1",
       "redux": "4.0.5",
       "angular-ui-router": "1.0.25",
-      "lodash": "4.17.15",
+      "lodash": "4.17.17",
       "idempotent-babel-polyfill": "7.4.4",
       "raphael": "2.3.0",
       "es6-promise": "4.2.8",
