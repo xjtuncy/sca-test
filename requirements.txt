@@ -19,7 +19,7 @@ numpy==1.19.1
 pycryptodome==3.9.7
 configparser==4.0.2
 IPY==1.00
-gunicorn==20.0.4
+gunicorn==22.0.0
 pexpect==4.8.0
 APScheduler==3.6.3
 click==7.1.2
