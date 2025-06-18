@@ -120,7 +120,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3</version>
+            <version>1.6.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.cxf</groupId>
@@ -395,7 +395,7 @@
         <dependency>
             <groupId>org.apache.solr</groupId>
             <artifactId>solr-core</artifactId>
-            <version>8.4.0</version>
+            <version>8.6.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.spark</groupId>
@@ -510,7 +510,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-websocket</artifactId>
-            <version>9.0.17</version>
+            <version>9.0.106</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat</groupId>
