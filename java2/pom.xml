@@ -115,7 +115,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
-            <version>1.16.1</version>
+            <version>1.26.0</version>
         </dependency>
         <dependency>
             <groupId>commons-fileupload</groupId>
@@ -150,7 +150,7 @@
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-runtime_2.11</artifactId>
-            <version>1.11.1</version>
+            <version>1.13.3</version>
         </dependency>
         <dependency>
             <groupId>org.apache.flink</groupId>
@@ -530,7 +530,7 @@
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-web</artifactId>
-            <version>3.9.0</version>
+            <version>4.5.18</version>
         </dependency>
         <dependency>
             <groupId>xalan</groupId>
