@@ -95,17 +95,17 @@
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-core-services-api</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-core-util-api</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apereo.cas</groupId>
             <artifactId>cas-server-support-pac4j-core-clients</artifactId>
-            <version>5.3.15.1</version>
+            <version>6.0.0</version>
         </dependency>
         <dependency>
             <groupId>commons-beanutils</groupId>
@@ -195,7 +195,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.3.10.Final</version>
+            <version>5.3.38.Final</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
@@ -395,7 +395,7 @@
         <dependency>
             <groupId>org.apache.solr</groupId>
             <artifactId>solr-core</artifactId>
-            <version>8.4.0</version>
+            <version>9.10.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.spark</groupId>
